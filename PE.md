@@ -762,8 +762,8 @@ Tại thời điểm này, process đã được tạo ra, nhưng điều đó k
 
 Giả sử `test.exe` có những thông số như thế này đi:
 
-![alt text]({82A79DB5-5847-4686-93E9-BC15BE2F816D}.png)
-![alt text]({DC965412-8FD3-4312-AC82-C7180008EA28}.png)
+![alt text](./images/thongso1.png)
+![alt text](./images/thongso2.png)
 
 Như là:
 ```
